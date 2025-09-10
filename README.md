@@ -2,7 +2,6 @@
 
 The **Enhanced Stack Data Structure** enables efficient `push`, `pop`, and `top` operations while maintaining real-time tracking of the minimum element in constant **O(1) time**. By using an auxiliary stack, it supports fast retrieval of the minimum without scanning, making it ideal for **high-performance applications** such as stock market tracking, gaming, and streaming analytics.
 
----
 
 ## 📌 Features
 - **Push:** Insert an element into the stack in O(1).  
@@ -11,7 +10,6 @@ The **Enhanced Stack Data Structure** enables efficient `push`, `pop`, and `top`
 - **GetMin:** Get the current minimum element in O(1).  
 - Handles **duplicate values, negative numbers, overflow, and underflow** conditions gracefully.  
 
----
 
 ## ⚙️ Implementation
 The project is implemented in **C language** using two stacks:
@@ -28,7 +26,6 @@ The project is implemented in **C language** using two stacks:
 3. **Top():** Return `mainStack.top()`.  
 4. **GetMin():** Return `minStack.top()`.  
 
----
 
 ## 🖥️ Requirements
 - **Hardware:** PC/Laptop with at least 4GB RAM, 1.5 GHz processor  
@@ -36,7 +33,6 @@ The project is implemented in **C language** using two stacks:
 - **IDE (optional):** Code::Blocks, Dev-C++, or VS Code  
 - **OS:** Windows / Linux / Mac  
 
----
 
 ## 🚀 Sample Execution
 ```bash
