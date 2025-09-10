@@ -47,3 +47,25 @@ Current Minimum: -3
 Popped -3
 Top Element: 0
 Current Minimum: -2
+```
+
+## 📊 Applications
+
+- Stock Market Analysis → Track minimum stock prices in real-time.
+- Gaming Systems → Monitor minimum health or score dynamically.
+- Streaming Data → Maintain running minimum values efficiently.
+
+## 📚 References
+
+- Kernighan, B. W., & Ritchie, D. M. (1988). The C Programming Language. Prentice Hall.
+- Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). Introduction to Algorithms. MIT Press.
+- Horowitz, E., Sahni, S., & Anderson-Freed, S. (2008). Fundamentals of Data Structures in C. Universities Press.
+
+## 👨‍💻 Authors
+
+- Shaik Aiman Hussain
+- Gaduputi Purushotham
+- Mopada Bharath Kumar
+- Avoy Debnath
+
+**SRM University – Department of NWC**
